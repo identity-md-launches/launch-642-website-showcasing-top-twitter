@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 420" fill="none">
+ <defs><pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0v30" stroke="#52604b" opacity=".28"/></pattern><radialGradient id="light"><stop stop-color="#849851" stop-opacity=".5"/><stop offset="1" stop-color="#223529" stop-opacity="0"/></radialGradient></defs>
+ <path fill="#21382b" d="M0 0h680v420H0z"/><path fill="url(#grid)" d="M0 0h680v420H0z"/><ellipse cx="375" cy="250" rx="330" ry="260" fill="url(#light)"/>
+ <g stroke="#c7e7a1" stroke-width="1.5" stroke-linejoin="round">
+ <path d="m129 286 208-115 212 112-209 116Z" fill="#304a32"/>
+ <path d="m129 286 211 112v-24L129 263Z" fill="#486140"/><path d="m340 398 209-115v-23L340 374Z" fill="#243c2b"/>
+ <path d="m198 257 139-78 144 78-140 77Z" fill="#a8c586"/><path d="m198 257 143 77v-88l-143-78Z" fill="#4f6d48"/><path d="m341 334 140-77v-90l-140 78Z" fill="#2a472f"/>
+ <path d="m198 168 53-30 38 21 53-30 39 21 48-27 52 44-140 79Z" fill="#719660"/>
+ <path d="m198 168 53-30v51m39-29 52-31v53m39-32 48-27v51" fill="#9bbb79"/>
+ <path d="m221 227 26 14v29l-26-14Zm48 25 25 13v29l-25-13Z" fill="#deefb5"/>
+ <path d="m374 254 28-15v38l-28 15Zm51-28 28-15v38l-28 15Z" fill="#b2d68a"/>
+ <path d="m405 151 21 11V70l-21-11Z" fill="#658354"/><path d="m426 162 19-11V60l-19 10Z" fill="#38563a"/><path d="m405 59 20-11 20 12-19 10Z" fill="#bad297"/>
+ <path d="m325 309 15 8 61-34 54 28-93 51-124-66 29-16Z" fill="#172e24"/>
+ <path d="m263 298 100 53 79-43m-160-9-11 6m28 3-11 6m28 3-11 6m27 3-11 6m27 3-11 6m43-15 12 6m4-14 12 6"/>
+ <path d="m319 281 22 12 21-12-22-12Z" fill="#dcf4b3"/><path d="m319 281 22 12v19l-22-12Z" fill="#8bac66"/><path d="m341 293 21-12v19l-21 12Z" fill="#5f7c48"/>
+ <path d="m366 314 20 11 21-12-20-11Z" fill="#dcf4b3"/><path d="m366 314 20 11v19l-20-11Z" fill="#8bac66"/><path d="m386 325 21-12v19l-21 12Z" fill="#5f7c48"/>
+ </g>
+ <path d="M423 39V25m-20 8-8-8m49 9 9-9" stroke="#d9f0b0" stroke-width="2" stroke-linecap="round"/>
+ <g fill="#cce7aa" font-family="monospace" font-size="12" letter-spacing="2"><text x="30" y="390">THE SWARM AT WORK</text><text x="562" y="390">FIG. 01</text></g>
+ <path d="M31 57h128m-8 287h50m329-226h102M561 86v14m-7-7h14M83 193v14m-7-7h14" stroke="#96b67b" stroke-width="1.5"/>
+ <circle cx="110" cy="306" r="4" fill="#d8efaf"/><circle cx="576" cy="231" r="4" fill="#d8efaf"/>
+</svg>
